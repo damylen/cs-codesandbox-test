@@ -1,31 +1,19 @@
-# tzz
+# cs example
 
 ## Project setup
 
 ```
-yarn install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-yarn run serve
+yarn
 ```
 
 ### Compiles and minifies for production
 
 ```
-yarn run build
-```
-
-### Run your tests
-
-```
-yarn run test
-```
-
-### Lints and fixes files
-
-```
-yarn run lint
+yarn build
 ```
