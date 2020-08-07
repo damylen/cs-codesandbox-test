@@ -14,7 +14,7 @@
     "vue": "^2.6.10",
     "vue-i18n": "^8.14.0",
     "source-map-support": "^0.5.13",
-    "class-transformer": "^0.2.3"
+    "class-transformer": "^0.3.1"
   },
   "devDependencies": {
     "@types/socket.io-client": "^1.4.32",
